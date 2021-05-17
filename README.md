@@ -2,3 +2,9 @@
 
 
 Q1) Given an array of integers Arr of size N and a number K. Return the maximum sum of a subarray of size K.
+
+Q2) Given a word pat and a text txt. Return the count of the occurences of anagrams of the word in the text.
+
+Q3) Given an array A[] of size N and a positive integer K, find the first negative integer for each and every window(contiguous subarray) of size K.
+
+Q4) Given an array arr[] of size N and an integer K. Find the maximum for each and every contiguous subarray of size K.
