@@ -8,3 +8,5 @@ Q2) Given a word pat and a text txt. Return the count of the occurences of anagr
 Q3) Given an array A[] of size N and a positive integer K, find the first negative integer for each and every window(contiguous subarray) of size K.
 
 Q4) Given an array arr[] of size N and an integer K. Find the maximum for each and every contiguous subarray of size K.
+
+Q5) Given an array containing N integers and an integer K., Your task is to find the length of the longest Sub-Array with the sum of the elements equal to the given value K.
